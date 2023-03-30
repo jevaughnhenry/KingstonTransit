@@ -1,2 +1,2 @@
 # KingstonTransit
-My journey to try creating a transit map for Kingston, Jamaica
+My journey to trying to create a transit map for Kingston and its environs, Jamaica.
