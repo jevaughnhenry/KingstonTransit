@@ -5,3 +5,5 @@ Steps:
 1. Researched the bus routes of the Jamaica Urban Transit Company (JUTC) - https://jutc.gov.jm/bus-routes/
 
 2. Created draft map to get an idea of the extent to be covered - https://metromapmaker.com/?map=5T69N6Zr
+
+3. Created Adobe Illustrator project to create transit map
